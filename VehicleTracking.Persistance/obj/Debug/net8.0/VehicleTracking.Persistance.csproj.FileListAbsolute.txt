@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\bin\Debug\net8.0\VehicleTracking.Persistance.deps.json
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\bin\Debug\net8.0\VehicleTracking.Persistance.dll
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\bin\Debug\net8.0\VehicleTracking.Persistance.pdb
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.AssemblyInfo.cs
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.dll
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\refint\VehicleTracking.Persistance.dll
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\VehicleTracking.Persistance.pdb
+C:\Users\User\Desktop\proje\VehicleTracking\VehicleTracking.Persistance\obj\Debug\net8.0\ref\VehicleTracking.Persistance.dll

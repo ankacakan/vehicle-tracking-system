@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DnKh11WceW5br38/EHNjbPTph2rYxVThTNa9Zx1CVgo=",
+  "Source": "VehicleTracking.WebApi",
+  "BasePath": "_content/VehicleTracking.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicleTracking.Persistance/1.0.0": {
+        "runtime": {
+          "VehicleTracking.Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleTracking.Persistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
